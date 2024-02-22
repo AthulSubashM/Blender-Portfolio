@@ -6,7 +6,7 @@
 
 ## Bowling
 ![Bowling](Bowling/Renders/BowlingCycles.png)
-![Strike](Bowling/Renders/StrikeLights.png)
+![Strike](Bowling/Renders/Strike.png)
 
 ## Mayan Pyramid
 ![Pyramid](Mayan%20Pyramid/Pyramid.png)
